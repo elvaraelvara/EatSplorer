@@ -126,8 +126,7 @@ npx expo start
 - [x] Integrate Firebase for authentication and database
 - [x] Enable review submissions with images
 - [x] Add restaurant sorting by rating and categories
-- [ ] Implement online payment for SMEs
-- [ ] Develop AI-based recommendation feature
+      
 
 
 ## 📄 Documentation  
